@@ -6,7 +6,9 @@ This project provides a simple, **single-file web application** built with **Pyt
 The entire application — including the frontend (HTML + JavaScript) and backend (Flask server logic) — is contained in a single `app.py` file for easy deployment and testing.
 
 
-## ✨ Features
+## video
+https://drive.google.com/file/d/1_oMPojLokgC1sjB-Qr4iiPexzpKWz0yT/view?usp=sharing
+##✨ Features
 
 * 🎙️ **Multimodal Processing:** Upload and process audio files (`.mp3`, `.wav`, `.m4a`, etc.) directly using the Gemini API.
 * 📝 **Automatic Transcription:** Generates a full transcript of meeting audio.
