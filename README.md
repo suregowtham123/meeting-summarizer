@@ -8,7 +8,8 @@ The entire application — including the frontend (HTML + JavaScript) and backen
 
 ## video
 https://drive.google.com/file/d/1_oMPojLokgC1sjB-Qr4iiPexzpKWz0yT/view?usp=sharing
-##✨ Features
+
+## features
 
 * 🎙️ **Multimodal Processing:** Upload and process audio files (`.mp3`, `.wav`, `.m4a`, etc.) directly using the Gemini API.
 * 📝 **Automatic Transcription:** Generates a full transcript of meeting audio.
